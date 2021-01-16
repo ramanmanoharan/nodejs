@@ -1,0 +1,23 @@
+{
+  "name": "nodedevlopment",
+  "version": "1.0.0",
+  "description": "node development",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "casual": "^1.6.2",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "node",
+    "development",
+    "learning"
+  ],
+  "author": "raman m",
+  "license": "ISC"
+}
